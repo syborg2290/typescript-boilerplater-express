@@ -15,7 +15,7 @@
   "keywords": [],
   "license": "ISC",
   "dependencies": {
-    "axios": "0.24.0",
+    "axios": "0.28.0",
     "bcrypt": "5.0.1",
     "dotenv": "12.0.4",
     "express": "4.17.2",
